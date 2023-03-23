@@ -1,0 +1,18 @@
+body {
+    background-image: url('../images/garage_fond_ecran.jpeg');
+    background-size: cover;
+}
+
+.transbox {
+    background-color:grey;
+    border: 1px solid grey;
+    opacity: 0.6;
+    height: 200px;
+    width: 400px;
+}
+
+div.transbox td {
+    font-weight: bold;
+    color: black;
+    opacity: 1;
+}
